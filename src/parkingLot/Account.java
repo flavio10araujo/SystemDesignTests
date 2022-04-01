@@ -1,5 +1,7 @@
 package parkingLot;
 
+import parkingLot.enums.AccountStatus;
+
 public abstract class Account {
 
 	private String userName;

@@ -2,6 +2,8 @@ package parkingLot;
 
 import java.util.Date;
 
+import parkingLot.enums.ParkingTicketStatus;
+
 public class ParkingTicket {
 
 	private String ticketNumber;

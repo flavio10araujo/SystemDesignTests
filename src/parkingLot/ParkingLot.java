@@ -2,6 +2,8 @@ package parkingLot;
 
 import java.util.Map;
 
+import parkingLot.enums.VehicleType;
+
 public class ParkingLot {
 	
 	private String name;

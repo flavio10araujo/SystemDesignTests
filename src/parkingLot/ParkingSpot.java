@@ -1,5 +1,7 @@
 package parkingLot;
 
+import parkingLot.enums.ParkingSpotType;
+
 public class ParkingSpot {
 
 	private String number;

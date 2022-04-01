@@ -1,5 +1,7 @@
 package parkingLot;
 
+import parkingLot.enums.VehicleType;
+
 public abstract class Vehicle {
 
 	private String licenseNumber;
